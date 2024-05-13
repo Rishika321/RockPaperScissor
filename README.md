@@ -1,1 +1,2 @@
 # RockPaperScissor
+This repository hosts a simple, interactive version of the classic game that you can play in any web browser. The game is built with HTML, CSS, and JavaScript, making it easy to understand and customize .To play the game, choose one of the three options: Rock, Paper, or Scissors, by clicking on the corresponding icon. The computer will randomly select its choice at the same time. The results will be displayed immediately—showing whether you won, lost, or tied—along with current score.
